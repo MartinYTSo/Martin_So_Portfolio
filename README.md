@@ -20,3 +20,11 @@ Recently, I have updated this graph to the date of Feb 14, 2021
 
 
 ![](/images/Graph.png)
+
+
+
+# [Project 2: Heart Rate Graph during Aerobic Exercise](https://github.com/MartinYTSo/Heart_Rate)
+
+For this project, I took old data from my exercise physiology classes and I plotted a graph with it using Python. The data pulled was from my lab partners who had to perform an aerobic exercise on a bike for a given amount of time. This could be useful for measuring peak performance during aerobic exercise at a given time. Furthermore, this graph can be helpful for those who would wish to compare graphs to determine what is deemed 'healthy' for a person.
+
+![](/images/HeartRate.png)
