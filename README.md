@@ -30,3 +30,11 @@ For this project, I took old data from my exercise physiology classes and I plot
 This could be useful for measuring peak performance during aerobic exercise at a given time. Furthermore, this graph can be helpful for those who would wish to compare graphs to determine what is deemed 'healthy' for a person.
 
 ![](/images/HeartRate.png)
+
+
+# [Project 3: File Finder](https://github.com/MartinYTSo/File_Finder)
+
+This is my first minature project with regards to building applications. In this project, I made a  script in which it searches specific word files within specific folders. This script is helpful if you would like to search a file name that contains specific keywords you are looking for and thus, this script is useful for someone who is in an administrative role in the workplace
+
+![](/images/Filefinder.PNG)
+
