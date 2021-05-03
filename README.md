@@ -34,7 +34,7 @@ This could be useful for measuring peak performance during aerobic exercise at a
 
 # [Project 3: Using K-NN Classification to Predict Forest Fires](https://github.com/MartinYTSo/dsci_100_algerian_forest_fires_project)
 
-This is my first data science project I created with a team of 3. We created a K-NN Classification model to predict the likelihood of a cause of a forest fires using predictor variables. We first cleaned the data and then later, selected the appropriate variables needed to built our model. Since this is a multivariate K-NN Classification, we did not provide a graph decision boundaries and instead, we decided to graph a K vs Accuracy graph to display the accuracy of the K model we built. 
+This is my first data science project I created with a team of 3. Additionally, this project was the first time I was introduced to machine learning concepts. This project uses the K-NN algorithim to predict a certain categorical variable.  We created a K-NN Classification model to predict the likelihood of a cause of a forest fires using predictor variables. First, we cleaned the data and then later, selected the appropriate variables needed to built our model. Since this is a multivariate K-NN Classification, we did not provide a graph decision boundaries and instead, we decided to graph a K vs Accuracy graph to display the accuracy of the K model we built. 
 
 ![](/images/accuracygraph.png) 
 
