@@ -38,6 +38,6 @@ This is my first data science project I created with a team of 3. We created a K
 
 ![](/images/accuracygraph.png) 
 
-We also discussed about the challeneges and limitations of our project in the discussion section. Nevertheless, this could be useful to predict a likelihood cause of forest fires if a new a new occurence with similar predictor variables is passed through this model.
+We also discussed about the challeneges and limitations of our project in the discussion section. Nevertheless, this could be useful to predict a likelihood cause of forest fires if a new a new occurence with similar predictor variables is passed through this model. More is discussed in the project report linked above.
 
 
