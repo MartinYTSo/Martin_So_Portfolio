@@ -41,3 +41,11 @@ This is my first data science project I created with a team of 3. Additionally, 
 We also discussed about the challeneges and limitations of our project in the discussion section. Nevertheless, this could be useful to predict a likelihood cause of forest fires if a new a new occurence with similar predictor variables is passed through this model. More is discussed in the project report linked above.
 
 
+# [Project 4: Unemployment Rates Per Government Type](https://github.com/MartinYTSo/unemployment_rate)
+
+This is a project from one of my computer science courses (CPSC 103) where I had to design an analytical program that analyzes the average unemplyoment rate per government type. What seperates this one from my past projects is that this project uses the naming conventions and the design processes that are appropriate to the CPSC 103 naming and design conventions.
+
+By completing this project, I have acquired many skills such as how to design custom data and how to utilize composition functions. Since I came from a non-technical background, this project helped me to think like a programmer and acquire the thought process of designing programs. The resulting product is shown below.
+
+![](/images/unemployment_proj_graph.png) 
+
