@@ -36,6 +36,6 @@ This could be useful for measuring peak performance during aerobic exercise at a
 
 This is my first data science project I created with a team of 3. We created a K-NN Classification model to predict the likelihood of a cause of a forest fires using predictor variables. We first cleaned the data and then later, selected the appropriate variables needed to built our model. Since this is a multivariate K-NN Classification, we did not provide a graph decision boundaries and instead, we decided to graph a K vs Accuracy graph to display the accuracy of the K model we built. 
 
-We also discussed about the challeneges and limitations of our project in the discussion section.
+We also discussed about the challeneges and limitations of our project in the discussion section. Nevertheless, this could be useful to predict a likelihood cause of forest fires if a new a new occurence with similar predictor variables is passed through this model
 
 
